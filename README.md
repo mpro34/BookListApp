@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# BookListApp
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This application uses React and Redux to manage state and user views for a Book Listing Application.
 
 ### Getting Started
 
